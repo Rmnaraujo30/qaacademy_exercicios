@@ -8,12 +8,17 @@ public class ExecucaoDosExercicios {
     //System.out.println(exercicio03.exibeValoresTrocados(10, 20));
     //Exercicio04 exercicio04 = new Exercicio04();
     //System.out.println("O dobro do numero enviado: "+ 10 +" Será: "+exercicio04.calcularDobro(10));    
-exercicio05 exercicio05 = new exercicio05();
-System.out.println("A soma dos números digitados é: " + exercicio05.calcularSoma(10, 20, 30));
-        System.out.println("A subtração dos números digitados é: " + exercicio05.calcularSubtracao(10, 20, 30));
-        System.out.println("A multiplicacao dos números digitados é: " + exercicio05.calcularMultiplicacao(10, 20, 30));
-        System.out.println("A media dos números digitados é: " + exercicio05.calcularMedia(exercicio05.calcularSoma(10, 20, 30), 0, 0));
-    }
+// exercicio05 exercicio05 = new exercicio05();
+// System.out.println("A soma dos números digitados é: " + exercicio05.calcularSoma(10, 20, 30));
+//         System.out.println("A subtração dos números digitados é: " + exercicio05.calcularSubtracao(10, 20, 30));
+//         System.out.println("A multiplicacao dos números digitados é: " + exercicio05.calcularMultiplicacao(10, 20, 30));
+//         System.out.println("A media dos números digitados é: " + exercicio05.calcularMedia(exercicio05.calcularSoma(10, 20, 30), 0, 0));
+exercicio06 exercicio06 = new exercicio06();
+System.out.println(exercicio06.verificarAprovacao(5, 5));
+
+
+}
+
 }
 
     
